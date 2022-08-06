@@ -1,0 +1,19 @@
+- name: React
+  percentage: 95
+  color: success
+
+- name: JavaScript
+  percentage: 85
+  color:
+
+- name: TypeScript
+  percentage: 75
+  color:
+
+- name: Golang
+  percentage: 35
+  color:
+
+- name: And so on… Does this even matter?
+  percentage: 95
+  color:

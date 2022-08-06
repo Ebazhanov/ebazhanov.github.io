@@ -1,0 +1,9 @@
+- name: CI
+  percentage: 65
+  color: success
+
+- name: Blockchain
+  percentage: 45
+  color: success
+
+
