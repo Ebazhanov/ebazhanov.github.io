@@ -1,5 +1,5 @@
 ---
-name: Landing page
+name: Multi project Web App
 tools: [Typescript, React, Sass]
 description: >
     Web App with multi projects inside

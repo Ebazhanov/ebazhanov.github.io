@@ -5,7 +5,7 @@ This repository contains the source code of [ebazhanov.github.io](https://ebazha
 ## Development
 
 1. Run `bundle install`
-2. Run `bundle exec jekyll serve`
+2. Run `bundle exec jekyll serve` //just in case you forgot `export GEM_HOME="$HOME/.gem"`
 3. Open http://localhost:4000
 
 ## Deployment
